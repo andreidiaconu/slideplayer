@@ -1,4 +1,12 @@
-# Flutter Slides
+# What is this fork?
+This is a fork of [Flutter Slides](https://github.com/flutter/slideplayer), which is a Flutter App used as a slideshow for Flutter Live '18. The whole thing was a very impressive proof of concept, as the audience did not expect the presentation itself to be a flutter app running on macOS. This fork contains different slides, made by me for my own conference talks about Flutter. 
+
+If you're still not sure what this is, I made a quick video with the slides here: [YouTube video of this project](https://youtu.be/PGb658pROWo).
+
+- If you are interested in my slides, feel free to open up `flutter_presentation`. 
+- If you want to study the code for the slides engine (yes, it's a presentation agnostic engine), then you should probably use the original for that as it might get updates as time passes: [Flutter Slides](https://github.com/flutter/slideplayer).
+
+# Here is the original Readme
 
 Flutter Slides utilizes [Flutter's in-progress support for Desktop](https://flutter.dev/desktop) to provide a simple slide presentation app.  Presentations are data driven from files on the disk, so users can create their own presentations without needing to update any code in the project. 
 
